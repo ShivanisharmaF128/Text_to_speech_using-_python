@@ -2,7 +2,7 @@
 
 A simple yet powerful **Text-to-Speech (TTS)** application built using **Python and pyttsx3** library. This project converts written text into audible speech using an offline voice engine—perfect for beginners exploring speech technology.
 
-![NOTEPAD ](https://github.com/ShivanisharmaF128/Noteped-_using-_python/blob/main/python%20project%20notepad.jfif)
+![IMAGE ](https://github.com/ShivanisharmaF128/Text_to_speech_using-_python/blob/main/text%20to%20speech.png)
 
 ---
 
